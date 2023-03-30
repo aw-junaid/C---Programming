@@ -2,6 +2,8 @@
 
 using namespace std;
 
+// using structure to represent a complex number
+
 // Define a structure to represent a complex number
 struct Complex {
     double real;
